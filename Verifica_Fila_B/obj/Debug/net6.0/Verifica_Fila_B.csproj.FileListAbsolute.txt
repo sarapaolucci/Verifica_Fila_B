@@ -1,0 +1,15 @@
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\bin\Debug\net6.0\Verifica_Fila_B.exe
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\bin\Debug\net6.0\Verifica_Fila_B.deps.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\bin\Debug\net6.0\Verifica_Fila_B.runtimeconfig.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\bin\Debug\net6.0\Verifica_Fila_B.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\bin\Debug\net6.0\Verifica_Fila_B.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.csproj.AssemblyReference.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.AssemblyInfoInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.AssemblyInfo.cs
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.csproj.CoreCompileInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\refint\Verifica_Fila_B.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\Verifica_Fila_B.genruntimeconfig.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\Verifica_Fila_B\Verifica_Fila_B\obj\Debug\net6.0\ref\Verifica_Fila_B.dll
